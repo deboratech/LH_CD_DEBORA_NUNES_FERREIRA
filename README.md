@@ -24,7 +24,7 @@ O projeto foi desenvolvido utilizando um arquivo Jupyter Notebook (`main.ipynb`)
 
 Certifique-se de ter Python 3 instalado. Recomenda-se a utilização de um ambiente virtual para gerenciar as dependências do projeto.
 
-```bash
+
 python -m venv venv
 source venv/bin/activate  # No Windows use `venv\Scripts\activate`
 
