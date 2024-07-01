@@ -30,16 +30,11 @@ source venv/bin/activate  # No Windows use `venv\Scripts\activate`
 
 ## Instalação das Dependências
 
-Certifique-se de ter Python 3 instalado. Recomenda-se a utilização de um ambiente virtual para gerenciar as dependências do projeto.
-
-```bash
-python -m venv venv
-source venv/bin/activate  # No Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 
 ## Execução do Projeto
 
-### Clone o repositório e execute o Jupyter Notebook
+# Clone o repositório e execute o Jupyter Notebook
 
 ```bash
 git clone https://github.com/seu_usuario/nome_do_repositorio.git
