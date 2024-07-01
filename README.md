@@ -37,8 +37,8 @@ pip install -r requirements.txt
 
 ### Clone o repositório e execute o Jupyter Notebook
 
-git clone https://github.com/seu_usuario/nome_do_repositorio.git
-cd nome_do_repositorio
+git clone https://github.com/deboratech/LH_CD_DEBORA_NUNES_FERREIRA.git
+cd LH_CD_DEBORA_NUNES_FERREIRA
 
 ### Execute o Jupyter Notebook
 jupyter notebook
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 import joblib
 
 ### Carregar um modelo treinado
-model = joblib.load('nome_do_arquivo.pkl')
+model = joblib.load('random_forest_regressor_model.pkl')
 
 ### Fazer previsões com o modelo
 predictions = model.predict(dados_de_entrada)
