@@ -39,13 +39,16 @@ pip install -r requirements.txt
 
 git clone https://github.com/seu_usuario/nome_do_repositorio.git
 cd nome_do_repositorio
+
+### Execute o Jupyter Notebook
 jupyter notebook
+
+### Abra e execute o arquivo main.ipynb no Jupyter Notebook.
 
 ## Arquivo de Requisitos
 pip install -r requirements.txt
 
 ## Como Abrir Arquivos .pkl
-bash
 import joblib
 
 ### Carregar um modelo treinado
