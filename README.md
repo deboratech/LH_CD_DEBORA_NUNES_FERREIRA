@@ -12,7 +12,7 @@ Este projeto visa realizar uma análise detalhada de um banco de dados cinematog
 - sklearn (RandomForestRegressor, OneHotEncoder, LinearRegression, train_test_split, mean_squared_error, r2_score)
 - joblib
 
-- Instalação e Execução do Projeto
+* Instalação e Execução do Projeto
 Certifique-se de ter Python 3 instalado. Recomenda-se a utilização de um ambiente virtual para gerenciar as dependências do projeto.
 
 python -m venv venv
