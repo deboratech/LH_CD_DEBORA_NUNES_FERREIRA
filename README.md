@@ -34,23 +34,21 @@ pip install -r requirements.txt
 
 ## Execução do Projeto
 
-# Clone o repositório e execute o Jupyter Notebook
+### Clone o repositório e execute o Jupyter Notebook
 
-```bash
 git clone https://github.com/seu_usuario/nome_do_repositorio.git
 cd nome_do_repositorio
 jupyter notebook
 
 ## Arquivo de Requisitos
-```bash
 pip install -r requirements.txt
 
 ## Como Abrir Arquivos .pkl
-```bash
+bash
 import joblib
 
-# Carregar um modelo treinado
+### Carregar um modelo treinado
 model = joblib.load('nome_do_arquivo.pkl')
 
-# Fazer previsões com o modelo
+### Fazer previsões com o modelo
 predictions = model.predict(dados_de_entrada)
