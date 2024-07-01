@@ -26,6 +26,7 @@ Certifique-se de ter Python 3 instalado. Recomenda-se a utilização de um ambie
 
 
 python -m venv venv
+
 source venv/bin/activate  # No Windows use `venv\Scripts\activate`
 
 ## Instalação das Dependências
