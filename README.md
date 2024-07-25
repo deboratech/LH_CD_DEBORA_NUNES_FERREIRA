@@ -8,12 +8,12 @@ O projeto foi desenvolvido utilizando um arquivo Jupyter Notebook (`main.ipynb`)
 
 ## Bibliotecas Utilizadas
 
-- pandas
-- numpy
-- seaborn
-- matplotlib.pyplot
-- plotnine
-- wordcloud
-- collections
-- sklearn (RandomForestRegressor, OneHotEncoder, LinearRegression, train_test_split, mean_squared_error, r2_score)
-- joblib
+-pandas
+-numpy
+-seaborn
+-matplotlib
+-plotnine
+-wordcloud
+-collections (módulo padrão do Python)
+-sklearn (RandomForestRegressor, OneHotEncoder, LinearRegression, train_test_split, mean_squared_error, r2_score)
+-joblib
